@@ -31,8 +31,6 @@ BEM Marine Power (BEM)
 📫 How to reach me:
 📧 robert.beck@bem-marinepower.com  
 🌍 www.bempower.de
-Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning AI fundamentals
 - 👯 I’m looking to collaborate on AI projects
